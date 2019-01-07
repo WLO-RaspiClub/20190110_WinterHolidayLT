@@ -2,6 +2,7 @@
 ## 「WLOラズパイ倶楽部 冬休み作品発表会2019」
 
 ## Peatix イベント申し込みページ
+https://raspi190110.peatix.com/
 
 ## 詳細
 WLOラズパイ倶楽部は、RaspberryPiやArduinoなどを使った 趣味の電子工作に
